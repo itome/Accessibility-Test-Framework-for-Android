@@ -3,8 +3,8 @@ package com.google.android.apps.common.testing.accessibility.framework.checks;
 import static com.google.common.base.Preconditions.checkNotNull;
 import static java.lang.Boolean.TRUE;
 
-import android.support.annotation.Nullable;
-import com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheck.Category;
+import androidx.annotation.Nullable;
+
 import com.google.android.apps.common.testing.accessibility.framework.AccessibilityCheckResult.AccessibilityCheckResultType;
 import com.google.android.apps.common.testing.accessibility.framework.AccessibilityHierarchyCheck;
 import com.google.android.apps.common.testing.accessibility.framework.AccessibilityHierarchyCheckResult;
